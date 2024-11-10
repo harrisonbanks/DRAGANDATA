@@ -15867,7 +15867,7 @@ id,id_drug,name_drug,disease,icd,clinicalstatus
 15866,"D0NY1Y","CART-34 cells","Acute myeloid leukaemia","ICD-11: 2A60","Phase 1"
 15867,"D0NX8G","Pre-pandemic Avian influenza vaccine","Influenza A virus H5N1 infection","ICD-11: 1E30","Phase 1"
 15868,"D0NX0S","PTX-100","Solid tumour/cancer","ICD-11: 2A00-2F9Z","Phase 1"
-15869,"D0NW8L","Anti-CD19 "armored" CAR-Tcell therapy","Chronic lymphocytic leukaemia","ICD-11: 2A82.0","Phase 1"
+15869,"D0NW8L","Anti-CD19 armored CAR-Tcell therapy","Chronic lymphocytic leukaemia","ICD-11: 2A82.0","Phase 1"
 15870,"D0NW8C","M3541","Solid tumour/cancer","ICD-11: 2A00-2F9Z","Phase 1"
 15871,"D0NW2H","BG-777","Human immunodeficiency virus infection","ICD-11: 1C62","Phase 1"
 15872,"D0NV6I","Anti-CD19 CAR-T cells","leukaemia","ICD-11: 2A60-2B33","Phase 1"

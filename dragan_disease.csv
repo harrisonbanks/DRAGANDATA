@@ -1,4 +1,4 @@
-id,id_drug,name_drug,indication,disease,icd
+id,id_drug,name_drug,disease,icd,clinicalstatus
 1,"DZB84T","Maralixibat","Pruritus","ICD-11: EC90","Approved"
 2,"DZB84T","Maralixibat","Progressive familial intrahepatic cholestasis","ICD-11: 5C58.03","Phase 3"
 3,"DZB84T","Maralixibat","Alagille syndrome","ICD-11: LB20.0Y","Phase 2"
